@@ -1,0 +1,6 @@
+projectKey=com.aiconoa:mytube-maven
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.aiconoa:mytube-maven
+ceTaskId=AWNzQfoj2X3MbE85JNJp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNzQfoj2X3MbE85JNJp

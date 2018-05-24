@@ -1,0 +1,9 @@
+com\aiconoa\servlet\Comment.class
+com\aiconoa\servlet\YouTubeVideoServlet.class
+com\aiconoa\servlet\VideoRepository.class
+com\aiconoa\servlet\UserRepository.class
+com\aiconoa\servlet\Video.class
+com\aiconoa\servlet\User.class
+com\aiconoa\servlet\YouTubeHomeServlet.class
+com\aiconoa\servlet\VideoFormCreateServlet.class
+com\aiconoa\servlet\HibernateUtils.class
